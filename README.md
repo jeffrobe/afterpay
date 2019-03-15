@@ -27,9 +27,11 @@ Give examples
 
 running against date: Mon Mar 11 00:00:00 PDT 2019 thresh hold: 20.000000
 transactions: 
+
 [11d7ce2f43e35fa57d1bbf8b1e2, 2019-03-11T13:15:54, 10.00, 11d7ce2f43e234a57d1bbf8b1e2, 2019-03-11T13:15:54, 30.00, 10d7ce2f43e35fa57d1bbf8b1e2, 2019-03-11T13:15:54, 10.00, 10d7ce2f43e35fa57d1bbf8b1e2, 2019-03-11T14:15:54, 12.00, 10d7ce2f43e35fa57d1bbf8b1e2, 2019-03-11T15:15:54, 13.00]
 
 fraudulent credit cards: 
+
 [11d7ce2f43e234a57d1bbf8b1e2, 10d7ce2f43e35fa57d1bbf8b1e2]
 
 
